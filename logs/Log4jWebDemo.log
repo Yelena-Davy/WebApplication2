@@ -1,0 +1,1 @@
+INFO    2018-12-17 23:34:36,049 [http-listener-1(2)] hello.world.TestLog4jServlet  - This is a logging statement from log4j
